@@ -17,4 +17,5 @@ setup(
     keywords="functional programming function operators higher order",
     url="http://example.com",
     long_description=read_file('README.rst'),
+    py_modules=['it'],
 )
