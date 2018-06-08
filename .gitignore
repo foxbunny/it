@@ -1,0 +1,4 @@
+*.py[co]
+/.pytest_cache
+/.vscode
+/*.egg-info
